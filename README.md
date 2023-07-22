@@ -1,4 +1,2 @@
 # Codeclause-projects
-In this repo two projects exists that are gave by CODECLAUSE.
-
-C:\Users\ravir\Videos\Captures
+This repo consists of projects that are assigned by the CODECLAUSE.
