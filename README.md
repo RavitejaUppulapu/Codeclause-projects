@@ -1,4 +1,4 @@
 # Codeclause-projects
-I did the Python projects assigned by the CODECLAUSE.
+In this repo two projects exists that are gave by CODECLAUSE.
 
 C:\Users\ravir\Videos\Captures
